@@ -1,0 +1,16 @@
+{
+    "name": "bitwisdom/phpbootcamp-storefront",
+    "description": "Assignment for Lesson 3 of PHP Bootcamp",
+    "authors": [
+        {
+            "name": "Wayne Eaker",
+            "email": "wayne@bitwisdom.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitwisdom\\Shop\\": "src/"
+        }
+    }
+}
