@@ -21,16 +21,16 @@ $week_8 = $target_weight;
     </head>
     <body>
         <h1>Weight Loss Plan for <?php print $name; ?></h1>
-        <p>Starting Weight: <?php print $starting_weight; ?> lbs<br />
-            Target Weight: <?php print $target_weight; ?> lbs</p>
-        <p>Week 1 Target: <?php print $week_1; ?> lbs<br />
-        Week 2 Target: <?php print $week_2; ?> lbs<br />
-        Week 3 Target: <?php print $week_3; ?> lbs<br />
-        Week 4 Target: <?php print $week_4; ?> lbs<br />
-        Week 5 Target: <?php print $week_5; ?> lbs<br />
-        Week 6 Target: <?php print $week_6; ?> lbs<br />
-        Week 7 Target: <?php print $week_7; ?> lbs<br />
-        Week 8 Target: <?php print $week_8; ?> lbs<br />
+        <p>Starting Weight: <?php print $starting_weight; ?> pounds<br />
+            Target Weight: <?php print $target_weight; ?> pounds</p>
+        <p>Week 1 Target: <?php print $week_1; ?> pounds<br />
+        Week 2 Target: <?php print $week_2; ?> pounds<br />
+        Week 3 Target: <?php print $week_3; ?> pounds<br />
+        Week 4 Target: <?php print $week_4; ?> pounds<br />
+        Week 5 Target: <?php print $week_5; ?> pounds<br />
+        Week 6 Target: <?php print $week_6; ?> pounds<br />
+        Week 7 Target: <?php print $week_7; ?> pounds<br />
+        Week 8 Target: <?php print $week_8; ?> pounds<br />
         </p>
     </body>
 </html>
