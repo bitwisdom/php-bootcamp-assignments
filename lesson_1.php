@@ -2,7 +2,7 @@
 
 $name = "Bob";
 $starting_weight = 200;
-$target_weight = 180;
+$target_weight = 190;
 
 $per_week = ($starting_weight - $target_weight) / 8;
 $week_1 = $starting_weight - $per_week;
