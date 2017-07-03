@@ -1,6 +1,6 @@
 db: 
     driver: pdo_mysql
-    name: php_examples
+    name: phpbootcamp
     host: localhost
     username: root
     password: root
